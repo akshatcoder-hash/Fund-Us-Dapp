@@ -241,7 +241,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Created by @akshatwts for Alchemy's Road to Web3 lesson two!
+          Created by @akshatwts!
         </a>
       </footer>
     </div>
